@@ -1,0 +1,1 @@
+# C-program-to-find-the-avegrage-of-numbers
